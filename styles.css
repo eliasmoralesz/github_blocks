@@ -1,0 +1,37 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.octocat {
+    height: 100px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 50px;
+    padding: 50px;
+}
+
+.pink {
+    background-color: pink;
+    justify-content: center;
+}
+
+.blue {
+    background-color: cyan;
+}
